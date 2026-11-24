@@ -128,8 +128,8 @@ The Excel workbook contains the following worksheets:
 -	[Raw Data](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Raw%20Data.xlsx)
 -	[Cleaned Data](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Medical_Appointment_No_Show_Analysis.xlsx)
 -	Pivot Tables
--	Dashboard 1
--	Dashboard 2
+-	[Dashboard 1](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Dashboard_1.png)
+-	[Dashboard 2](
 
 ## Conclusion
 
