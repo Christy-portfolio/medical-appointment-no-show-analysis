@@ -125,7 +125,7 @@ departments. Findings from this analysis should therefore be interpreted cautiou
 ## Project Files
 
 The Excel workbook contains the following worksheets:
--	Raw Data
+-	[Raw Data](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Raw%20Data.xlsx)
 -	Cleaned Data
 -	Pivot Tables
 -	Dashboard 1
