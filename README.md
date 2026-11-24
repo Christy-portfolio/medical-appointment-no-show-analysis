@@ -126,7 +126,7 @@ departments. Findings from this analysis should therefore be interpreted cautiou
 
 The Excel workbook contains the following worksheets:
 -	[Raw Data](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Raw%20Data.xlsx)
--	Cleaned Data
+-	[Cleaned Data](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Medical_Appointment_No_Show_Analysis.xlsx)
 -	Pivot Tables
 -	Dashboard 1
 -	Dashboard 2
