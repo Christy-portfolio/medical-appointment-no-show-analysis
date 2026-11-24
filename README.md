@@ -129,7 +129,7 @@ The Excel workbook contains the following worksheets:
 -	[Cleaned Data](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Medical_Appointment_No_Show_Analysis.xlsx)
 -	Pivot Tables
 -	[Dashboard 1](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Dashboard_1.png)
--	[Dashboard 2](
+-	[Dashboard 2](https://github.com/Christy-portfolio/medical-appointment-no-show-analysis/blob/main/Dashboard_2.png)
 
 ## Conclusion
 
